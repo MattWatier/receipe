@@ -1,0 +1,87 @@
+{
+  "title": "Classic Chocolate Chip Cookies",
+  "author": "Jane Doe",
+  "date": "2023-03-28",
+  "description": "Soft, chewy, and full of chocolate chips.",
+  "image": "https://www.example.com/images/chocolate-chip-cookies.jpg",
+  "yield": "24 cookies",
+  "prep_time": "15 minutes",
+  "cook_time": "10 minutes",
+  "total_time": "25 minutes",
+  "ingredients": [
+    {
+      "name": "butter",
+      "description": "softened",
+      "quantity": "1",
+      "unit": "oz",
+      "unit_code": "CUP"
+    },
+    {
+      "name": "white sugar",
+      "description": "",
+      "quantity": "1",
+      "unit": "oz",
+      "unit_code": "CUP"
+    },
+    {
+      "name": "brown sugar",
+      "description": "",
+      "quantity": "1",
+      "unit": "oz",
+      "unit_code": "CUP"
+    },
+    {
+      "name": "vanilla extract",
+      "description": "",
+      "quantity": "2",
+      "unit": "oz",
+      "unit_code": "TSP"
+    },
+    {
+      "name": "eggs",
+      "description": "",
+      "quantity": "2",
+      "unit": "oz",
+      "unit_code": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "description": "",
+      "quantity": "3",
+      "unit": "oz",
+      "unit_code": "CUP"
+    },
+    {
+      "name": "baking soda",
+      "description": "",
+      "quantity": "1",
+      "unit": "oz",
+      "unit_code": "TSP"
+    },
+    {
+      "name": "salt",
+      "description": "",
+      "quantity": "1",
+      "unit": "oz",
+      "unit_code": "TSP"
+    },
+    {
+      "name": "chocolate chips",
+      "description": "",
+      "quantity": "2",
+      "unit": "oz",
+      "unit_code": "CUP"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large mixing bowl, cream together the butter, white sugar, and brown sugar until light and fluffy.",
+    "Beat in the vanilla and eggs.",
+    "In a separate bowl, combine the flour, baking soda, and salt.",
+    "Gradually add the dry ingredients to the wet ingredients, mixing until just combined.",
+    "Stir in the chocolate chips.",
+    "Drop spoonfuls of the dough onto a baking sheet, spacing them about 2 inches apart.",
+    "Bake for 8-10 minutes or until the edges are golden brown.",
+    "Allow the cookies to cool on the baking sheet for 5 minutes before transferring to a wire rack to cool completely."
+  ]
+}
